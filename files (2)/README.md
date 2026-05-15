@@ -121,6 +121,5 @@ MIT License — free to use and modify with attribution.
 
 ## 👤 Author
 
-**Anubha Deepti Charchi**  
-B.Tech CSE, KIIT University, Bhubaneswar  
-[LinkedIn](https://linkedin.com/in/anubha-charchi-258085230) · [GitHub](https://github.com/Anubhacharchi)
+**SUSHANT SINGH**
+B.Tech ECSE, KIIT University, Bhubaneswar
